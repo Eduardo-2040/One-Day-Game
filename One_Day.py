@@ -39,3 +39,5 @@ while True:
         break
 
 contexto = 'O dia está quente.'
+
+print(contexto)
