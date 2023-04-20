@@ -37,3 +37,5 @@ while True:
         
         print(f'{jogador.nome} abre os olhos.')
         break
+
+contexto = 'O dia está quente.'
